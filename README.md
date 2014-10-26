@@ -1,3 +1,5 @@
+![Cedar](http://upload.wikimedia.org/wikipedia/commons/1/16/Cedaricon.png)
+
 cedarOS
 =======
 
