@@ -1,4 +1,4 @@
-![Cedar](misc/Cedaricon.png =250x)
+<img src="/misc/Cedaricon.png" alt="alt text" style="width:50;height:50">
 
 cedarOS
 =======
