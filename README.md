@@ -1,7 +1,6 @@
-<img src="/misc/Cedaricon.png" alt="alt text" style="width:50;height:50">
-
 cedarOS
 =======
+Copyright 2014 NikhilP
 
 This OS runs on the [Linux Kernal][1]
 [1]: https://github.com/torvalds/linux
