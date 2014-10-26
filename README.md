@@ -1,4 +1,4 @@
-![Cedar](http://upload.wikimedia.org/wikipedia/commons/1/16/Cedaricon.png = 150x)
+![Cedar](misc/Cedaricon.png =250x)
 
 cedarOS
 =======
